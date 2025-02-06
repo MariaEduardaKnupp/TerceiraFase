@@ -1,0 +1,4 @@
+.container-body{
+    background-color: rgb(216, 218, 240);
+    min-height: calc(100vh - 60px);
+}
